@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Utsav Kumar 👋
 
-<!--
-**utsav-kumar-droid/utsav-kumar-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science & Engineering  
+🏫 Samrat Ashok Technological Institute (SATI), Vidisha  
+💻 Interested in Full-Stack Development, Machine Learning, Deep Learning and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on full-stack and AI-powered applications.
+- 🌱 Exploring Generative AI, RAG, LLMs and Machine Learning.
+- 💡 Practicing Data Structures and Algorithms in C++ and Java.
+- 🎯 Interested in building scalable, user-focused software solutions.
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+C | C++ | Java | Python | JavaScript
+
+**Frontend:**  
+React.js | HTML5 | CSS3
+
+**Backend:**  
+Node.js | Express.js | REST APIs
+
+**Databases:**  
+MongoDB | MySQL
+
+**AI/ML:**  
+Machine Learning | Deep Learning | NLP | Generative AI
+
+**Tools:**  
+Git | GitHub | VS Code | Postman
+
+### 🚀 Featured Projects
+
+**1. Philately – Gamified Web Platform**
+- Full-stack platform for stamp collectors.
+- Features include authentication, stamp collections, auctions, blogs and order tracking.
+- AI-powered chatbot for interactive assistance.
+
+[Live Demo](https://philately-exzt.vercel.app/) | [Source Code](https://github.com/utsav-kumar-droid/Philately)
+
+**2. Sentivio – Real-Time Sentiment Insights**
+- Social media intelligence and sentiment analysis platform.
+- Explores NLP, emotion detection, anomaly detection and real-time insights.
+
+**3. Java Full Stack Learning**
+- Core Java, OOP, JDBC, SQL and practical programming.
+- Repository: [JavaFullStack](https://github.com/utsav-kumar-droid/JavaFullStack)
+
+### 📊 GitHub Activity
+
+I regularly work on programming, problem-solving and software development projects.
+
+### 🤝 Connect With Me
+
+[GitHub](https://github.com/utsav-kumar-droid)
