@@ -1,4 +1,4 @@
-# Hi, I'm Utsav Kumar 👋
+# Hello, I'm Utsav Kumar
 
 ### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
 
