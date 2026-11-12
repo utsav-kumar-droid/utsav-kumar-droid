@@ -1,6 +1,6 @@
 # Hello, I'm Utsav Kumar
 
-### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
+### CSE'27 | Final Year | Full-Stack Developer | AI/ML Enthusiast
 
 🎓 B.Tech in Computer Science & Engineering  
 🏫 Samrat Ashok Technological Institute (SATI), Vidisha  
