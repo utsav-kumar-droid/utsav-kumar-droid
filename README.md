@@ -43,6 +43,7 @@ Git | GitHub | VS Code | Postman
 **2. Sentivio – Real-Time Sentiment Insights**
 - Social media intelligence and sentiment analysis platform.
 - Explores NLP, emotion detection, anomaly detection and real-time insights.
+- [Source Code](https://github.com/utsav-kumar-droid/sentivio)
 
 **3. Java Full Stack Learning**
 - Core Java, OOP, JDBC, SQL and practical programming.
