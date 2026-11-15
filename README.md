@@ -45,9 +45,11 @@ Git | GitHub | VS Code | Postman
 - Explores NLP, emotion detection, anomaly detection and real-time insights.
 - [Source Code](https://github.com/utsav-kumar-droid/sentivio)
 
-**3. Java Full Stack Learning**
-- Core Java, OOP, JDBC, SQL and practical programming.
-- Repository: [JavaFullStack](https://github.com/utsav-kumar-droid/JavaFullStack)
+**3. Wallet**
+- By using Javascript, getBlock.
+- Scallable Blockchain based wallet.
+- make transaction in bitcoin, solana.
+[Live Demo]((https://wallet-3ro.pages.dev/)) | [Source Code](https://github.com/utsav-kumar-droid/wallet)
 
 ### 📊 GitHub Activity
 
