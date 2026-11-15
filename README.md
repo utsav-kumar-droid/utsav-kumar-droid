@@ -49,7 +49,7 @@ Git | GitHub | VS Code | Postman
 - By using HTML, CSS, JavaScript, getBlock.
 - Scallable Blockchain based wallet.
 - make transaction in bitcoin, solana.
-[Live Demo]((https://wallet-3ro.pages.dev/) | [Source Code](https://github.com/utsav-kumar-droid/wallet)
+[Live Demo](https://wallet-3ro.pages.dev/) | [Source Code](https://github.com/utsav-kumar-droid/wallet)
 
 ### 📊 GitHub Activity
 
