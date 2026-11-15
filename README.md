@@ -46,7 +46,7 @@ Git | GitHub | VS Code | Postman
 - [Source Code](https://github.com/utsav-kumar-droid/sentivio)
 
 **3. Wallet**
-- By using Javascript, getBlock.
+- By using HTML, CSS, JavaScript, getBlock.
 - Scallable Blockchain based wallet.
 - make transaction in bitcoin, solana.
 [Live Demo]((https://wallet-3ro.pages.dev/) | [Source Code](https://github.com/utsav-kumar-droid/wallet)
